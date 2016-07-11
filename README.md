@@ -22,6 +22,8 @@ npm run dev
 
 ## API
 
+[Screencast video](https://youtu.be/d06mSb6EeA0)
+
 ### Signup
 
 #### CURL
